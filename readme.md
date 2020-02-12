@@ -1,4 +1,4 @@
-<h1 align="center">Jobportal project in Laravel framework and Vue.js</h1>
+<h1 align="center">Jobportal project in Laravel framework version 5.8 and Vue.js</h1>
 
 ## About Laravel
 
