@@ -1,5 +1,8 @@
 <h1 align="center">Jobportal project in Laravel framework version 5.8 and Vue.js</h1>
 
+## Project Overview on YouTube:
+Link:-https://www.youtube.com/watch?v=j8_5q_rXu-c&t=65s
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
